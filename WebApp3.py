@@ -21,7 +21,7 @@ sys.modules['sklearn.neighbors.base'] = sklearn.neighbors._base
 from missingpy import MissForest
 
 
-st.title('Machine Learning Pipeline')
+st.title('Machine Learning Auto Processing')
 st.write('''This web app is designed for the user to input a dataset that will be processed automatically.
 	Very little user input will be necessary.  It is assumed that data types in the csv are correct.
 	  There will be opportunities to impute missing continious values and encode nominal values.
