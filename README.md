@@ -1,6 +1,6 @@
 # Machine Learning Auto Processing 
 Hello, this web app was designed to automate most portions of 
-the machine learning process.  Though, not optimal, easier for
+the machine learning modeling process.  Though, not optimal, easier for
 stakeholders lacking experience in the modeling process.
 
 # Snapshots
